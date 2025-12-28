@@ -1,0 +1,21 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Caches
+__pycache__/
+*.pyc
+
+# Local Data - DO NOT track large data files
+data/
+*.csv
+*.json
+*.parquet
+
+# Secrets
+.env
+
+# Generated Output Folders
+outputs/
