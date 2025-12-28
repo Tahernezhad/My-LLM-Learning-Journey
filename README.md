@@ -10,7 +10,7 @@ This repository documents my hands-on journey into **Large Language Model (LLM) 
 The project is structured to show my progression from understanding data representation to building autonomous agents and customizing foundation models.
 
 <p align="center">
-  <img src="assets/LLM.png">
+  <img src="assets/LLM.png" width="70%">
 </p>
 
 ## 🚀 About the Project
