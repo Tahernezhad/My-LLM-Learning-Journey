@@ -11,7 +11,7 @@ This module demonstrates how to adapt foundation models (BERT, XLNet, DistilBERT
 It moves beyond "prompt engineering" to actually modifying the model weights for domain-specific performance, covering two distinct NLP challenges: **Multi-Class Classification** and **Natural Language Inference (NLI)**.
 
 <p align="center">
-  <img src="assets/finetuning.png" width="50%">
+  <img src="../assets/finetuning.png" width="50%">
 </p>
 
 ## 🔍 Overview

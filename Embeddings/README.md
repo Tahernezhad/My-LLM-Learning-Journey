@@ -11,7 +11,7 @@ This module explores the foundation of NLP: **Vector Embeddings**. It demonstrat
 The script `sentence_similarity_visualizer.py` implements a complete pipeline for generating, comparing, and visualizing semantic clusters.
 
 <p align="center">
-  <img src="assets/embedding.png" width="50%">
+  <img src="../assets/embedding.png" width="50%">
 </p>
 
 ## 🔍 Overview
@@ -61,7 +61,7 @@ It also generates a 2D visualization where **semantic clusters become clearly vi
   `outputs/YYYY-MM-DD_.../tsne_visualization.png`
 
 <p align="center">
-  <img src="assets/tsne_visualization.png" width="60%">
+  <img src="../assets/tsne_visualization.png" width="60%">
 </p>
 
 ---
