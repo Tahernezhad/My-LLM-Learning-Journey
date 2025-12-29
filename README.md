@@ -10,7 +10,7 @@ This repository documents my hands-on journey into **Large Language Model (LLM) 
 The project is structured to show my progression from understanding data representation to building autonomous agents and customizing foundation models.
 
 <p align="center">
-  <img src="assets/LLM.png" width="70%">
+  <img src="assets/llm_1.png" width="70%">
 </p>
 
 ## 🚀 About the Project
@@ -94,3 +94,5 @@ This repository is **actively evolving** as part of an ongoing LLM learning plan
 - Additional **fine‑tuning experiments**, such as class imbalance handling, hyperparameter sweeps, and comparison of different backbone models.
 
 This repository serves as a living record of my technical journey. It is designed to demonstrate my practical ability to engineer robust, and reproducible NLP solutions.
+
+---
